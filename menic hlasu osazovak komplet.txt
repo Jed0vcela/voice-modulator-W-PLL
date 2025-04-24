@@ -1,10 +1,10 @@
-název		hodnota		montáž			množštví
-R4,R24		100			THT DIN0207		2
-R17,R19		1k			SMD 0805		2
-R18,R20		4k7			SMD 0805		2
-R21			270k		SMD 0805		1
-R23			10k			SMD 0805		1
-R25,R33		1k			THT DIN0207		2
+název		  hodnota		montáž			  množštví
+R4,R24		100			  THT DIN0207		2
+R17,R19		1k			  SMD 0805		  2
+R18,R20		4k7			  SMD 0805		  2
+R21			  270k		  SMD 0805		  1
+R23			  10k			  SMD 0805		  1
+R25,R33		1k			  THT DIN0207		2
 R27,R28,R30,R34,R35,R36,R37,R38,R40,R41,R42		10k			THT DIN0207		11
 R29			100k		THT DIN0207		1
 R31			4k7			THT DIN0207		1
